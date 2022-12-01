@@ -308,8 +308,8 @@ def end_game():
     win.place(x=475, y=300)
 
 
-threading.Thread(target=winsound.PlaySound("ost.wav", winsound.SND_LOOP | winsound.SND_ASYNC | winsound.SND_NOSTOP),
-                 daemon=False).start()
+#threading.Thread(target=winsound.PlaySound("ost.wav", winsound.SND_LOOP | winsound.SND_ASYNC | winsound.SND_NOSTOP),
+#                 daemon=False).start()
 dance()
 
 d.mainloop()
