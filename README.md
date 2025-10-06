@@ -1,6 +1,6 @@
 # Rand-pong
 Game?
-To start game just start file "main.py"
+To start game simply start file "main.py"
 
 To win you need to score a square ball to an opponent about 10 times. May be even more if game feels like it.
 
