@@ -2,9 +2,9 @@
 Game?
 To start game just start file "main.py"
 
-To win you need to score a square ball to an opponent 10 times.
+To win you need to score a square ball to an opponent about 10 times. May be even more if game feels like it.
 
-control:
+control :
   | blue platform:
     W - up
     S - down
